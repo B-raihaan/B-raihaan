@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Binuk
-- 👀 I’m interested in Programming
+- 👑 Hi, we're Dev Kings
+
 
 
 <!---

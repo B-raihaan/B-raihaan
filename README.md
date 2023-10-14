@@ -1,4 +1,4 @@
-- 👑 Hi, we're Dev Kings
+- 👑 Hi, We're Dev Kings
 
 
 
